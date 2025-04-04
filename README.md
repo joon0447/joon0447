@@ -39,6 +39,13 @@
   <br/>
   <br/>
   
+  ### ETC
+  <!--Wordpress-->
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  
+  <br/>
+  <br/>
+  
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joon0447)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
