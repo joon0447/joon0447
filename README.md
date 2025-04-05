@@ -7,6 +7,9 @@
   
   <br/>
   <br/>
+
+  ## 🌐 Blog
+  https://velog.io/@sangjun01
   
   ## 🧱 Tech Stack
   ### Language
@@ -43,11 +46,12 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <br/>
   <br/>
-  
+
+  <!--
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joon0447)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joon0447)](https://github.com/anuraghazra/github-readme-stats)
+  -->
 </div>
 
 <!--
