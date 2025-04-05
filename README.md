@@ -5,10 +5,6 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand:<br/>
-  #### :fire: <br/>
-  #### :mortar_board: 
   <br/>
   <br/>
   
