@@ -9,7 +9,7 @@
   <br/>
 
   ## 🌐 Blog
-  https://velog.io/@sangjun01
+  https://gangchul.tistory.com/
   
   ## 🧱 Tech Stack
   ### Language
