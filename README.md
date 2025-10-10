@@ -1,8 +1,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-[![trophy](https://github-profile-trophy.vercel.app/?username=joon0447&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=joon0447&theme=onedark&title=-Stars,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 <div>
   <!--Body-->
   
