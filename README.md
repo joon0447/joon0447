@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Good%20to%20see%20you%20%F0%9F%A4%97" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://gangchul.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
