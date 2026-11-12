@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Good%20to%20see%20you%20%F0%9F%A4%97" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Good%20to%20see%20you%20%F0%9F%A4%97" />
   </a>
 </p>
 <p>
